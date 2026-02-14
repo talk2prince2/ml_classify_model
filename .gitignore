@@ -1,0 +1,6 @@
+venv/
+venv310/
+env/
+.env/
+.vscode/
+.idea/
